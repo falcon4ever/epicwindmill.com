@@ -34,7 +34,7 @@ pagination:
       <div class="nav-links">
           {% if paginator.previous_page %}
             <div class="nav-next">
-                <a href="{{ paginator.previous_page_path }}">
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
                   <span class="meta-nav">←</span> 
                     Newer Posts
                   </a>
@@ -43,7 +43,7 @@ pagination:
 
           {% if paginator.next_page %}
             <div class="nav-previous">
-                <a href="{{ paginator.next_page_path }}">
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">
                   Older Posts 
                   <span class="meta-nav">→</span>
                 </a>
