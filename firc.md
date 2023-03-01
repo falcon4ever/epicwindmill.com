@@ -19,12 +19,12 @@ The application is available on the Google Play store and the BlackBerry App Wor
 ### fIRC 3 Status
 
 (02 / 12 / 2011) Custom UI.
-![](https://www.youtube.com/watch?v=sqbwetdkZ-Q)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/sqbwetdkZ-Q?feature=oembed" title="fIRC 3 - Demo build 2" width="500"></iframe>
 
 (02 / 06 / 2011) I’m currently rewriting fIRC (v3.0)  
 <http://code.google.com/p/firc-chat/>
 
-![](https://www.youtube.com/watch?v=SsIKqkeoAM8)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="375" loading="lazy" src="https://www.youtube.com/embed/SsIKqkeoAM8?feature=oembed" title="fIRC 3 - Demo build" width="500"></iframe>
 
 ### Feature list (v0.2)
 

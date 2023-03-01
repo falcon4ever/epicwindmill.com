@@ -72,7 +72,7 @@ This app requires the following permissions to work correctly:
 [![browserexample](https://epicwindmill.com/wp-content/uploads/2013/04/browserexample-150x150.jpg)](https://epicwindmill.com/wp-content/uploads/2013/04/browserexample.jpg)
 
 Or watch this video:  
-![](https://www.youtube.com/watch?v=FWOQqUZu74s)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/FWOQqUZu74s?feature=oembed" title="SMS Backup for BB10 - Tutorial: How to check your backup" width="500"></iframe>
 
 #### Exporting text messages
 

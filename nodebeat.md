@@ -16,7 +16,7 @@ By combining music and playful exploration, NodeBeat allows anyone to create an 
 Octaves and Notes make up the two types of nodes. Octaves pulse and send messages to Notes within proximity. Each Octave is assigned a random octave and each Note, a random note; therefore, a Note will play in several octaves depending on the Octave it’s connected to. Pause nodes to create your own beats or let them roam free to have them generate their own.
 
 **PlayBook Beta footage (April 2012)**  
-![](https://www.youtube.com/watch?v=xhZ46PpccGQ)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/xhZ46PpccGQ?feature=oembed" title="NodeBeat running on BlackBerry Playbook Tablet" width="500"></iframe>
 
 ### Features
 
@@ -65,7 +65,7 @@ Octaves and Notes make up the two types of nodes. Octaves pulse and send message
 
 Android Beta (January 2012):  
 Using the native UI
-![](https://www.youtube.com/watch?v=AaHI80wTWww)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/AaHI80wTWww?feature=oembed" title="NodeBeat for Android update preview" width="500"></iframe>
 
 Previous version:  
-![](https://www.youtube.com/watch?v=2GUkhkyl4rs)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/2GUkhkyl4rs?feature=oembed" title="NodeBeat - Android and iOS Creative Music Sequencer" width="500"></iframe>

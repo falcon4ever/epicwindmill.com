@@ -22,7 +22,7 @@ More info here: <http://distractionware.com/blog/2013/01/super-hexagon-for-andro
 
 ### Gameplay
 
-![](https://www.youtube.com/watch?v=2sz0mI_6tLQ)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="375" loading="lazy" src="https://www.youtube.com/embed/2sz0mI_6tLQ?feature=oembed" title="Super Hexagon Trailer" width="500"></iframe>
 
 *“A masterpiece of design purity.” – EDGE, 9/10*
 

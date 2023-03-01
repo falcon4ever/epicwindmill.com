@@ -16,4 +16,4 @@ Before opening the backup file (\*.xml), make sure that a stylesheet file (sms.x
 
 To edit the backup file you should use an advanced editor such as [Notepad++](http://notepad-plus-plus.org/) that knows how to deal with XML files. If you just want to view the content or print conversations, you can do so by opening the backup file with Internet Explorer or Firefox.
 
-![](https://www.youtube.com/watch?v=FWOQqUZu74s)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/FWOQqUZu74s?feature=oembed" title="SMS Backup for BB10 - Tutorial: How to check your backup" width="500"></iframe>  
