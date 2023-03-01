@@ -9,7 +9,9 @@ guid: 'https://epicwindmill.com/?page_id=246'
 
 Created by [Dan Comerchero](https://twitter.com/quiztones) and developed for Android by Laurence Muller, [Quiztones](http://quiztones.net/) is a frequency ear trainer that uses tones and frequency-altered noise and musical loops to train your ears and help develop more acute listening and frequency recognition skills.
 
-<center>[![](https://epicwindmill.com/wp-content/uploads/2012/09/Category-171x300.png "Category")](https://epicwindmill.com/wp-content/uploads/2012/09/Category.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory-171x300.png "Subcategory")](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen-171x300.png "QuizScreen")](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen.png)</center>### Features
+[![](https://epicwindmill.com/wp-content/uploads/2012/09/Category-171x300.png "Category")](https://epicwindmill.com/wp-content/uploads/2012/09/Category.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory-171x300.png "Subcategory")](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen-171x300.png "QuizScreen")](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen.png)
+
+### Features
 
 Quiztones will…
 

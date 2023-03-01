@@ -16,28 +16,28 @@ By combining music and playful exploration, NodeBeat allows anyone to create an 
 Octaves and Notes make up the two types of nodes. Octaves pulse and send messages to Notes within proximity. Each Octave is assigned a random octave and each Note, a random note; therefore, a Note will play in several octaves depending on the Octave it’s connected to. Pause nodes to create your own beats or let them roam free to have them generate their own.
 
 **PlayBook Beta footage (April 2012)**  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/xhZ46PpccGQ?feature=oembed" title="NodeBeat running on BlackBerry Playbook Tablet" width="500"></iframe>
+![](https://www.youtube.com/watch?v=xhZ46PpccGQ)
 
 ### Features
 
 **General**
 
-- Friendly, Intuitive and Easy to Use
-- Record and Save Creations
-- Drum and Octave Generators
-- Preset Layouts to Help Get You Started
-- Sleep Timer for Falling Asleep to NodeBeat
-- Soundcloud sharing (Android)
+* Friendly, Intuitive and Easy to Use
+* Record and Save Creations
+* Drum and Octave Generators
+* Preset Layouts to Help Get You Started
+* Sleep Timer for Falling Asleep to NodeBeat
+* Soundcloud sharing (Android)
 
 **Audio and Rhythm**
 
-- 20 Musical Scales
-- All 12 Musical Keys Signatures
-- 7 Octave Range
-- Multitouch Background Keyboard/Piano
-- Audio Waveform Adjustment (Sine, Triangle, Sawtooth, Square)
-- Creative Sound Sculpting (Echo, Attack, Decay, Release)
-- Adjustable Tempo (BPM) and Note Beat
+* 20 Musical Scales
+* All 12 Musical Keys Signatures
+* 7 Octave Range
+* Multitouch Background Keyboard/Piano
+* Audio Waveform Adjustment (Sine, Triangle, Sawtooth, Square)
+* Creative Sound Sculpting (Echo, Attack, Decay, Release)
+* Adjustable Tempo (BPM) and Note Beat
 
 ### More information
 
@@ -65,8 +65,7 @@ Octaves and Notes make up the two types of nodes. Octaves pulse and send message
 
 Android Beta (January 2012):  
 Using the native UI
-
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/AaHI80wTWww?feature=oembed" title="NodeBeat for Android update preview" width="500"></iframe>
+![](https://www.youtube.com/watch?v=AaHI80wTWww)
 
 Previous version:  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/2GUkhkyl4rs?feature=oembed" title="NodeBeat - Android and iOS Creative Music Sequencer" width="500"></iframe>
+![](https://www.youtube.com/watch?v=2GUkhkyl4rs)

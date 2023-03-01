@@ -19,13 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Epic Windmill"
-#email: lmuller@epicwindmill.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
-baseurl: "/epicwindmill.com" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/epicwindmill.com"
 twitter_username: LaurenceMuller
 github_username:  falcon4ever
 
@@ -37,6 +31,7 @@ description: "Creative software development"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -24,21 +24,22 @@ guid: 'https://epicwindmill.com/?page_id=362'
 - **Import** to and **export** from Android, use [SMS Backup and Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore) for Android.
 - **Import** from iPhone is a bit tricky but users have reported to be successful using this tool <http://faked.org/isms2droid/> (advanced users only). After converting your messages db file to an XML file, please use this tool to patch your backup file: [https://epicwindmill.com/tools/smsfix/](https://epicwindmill.com/tools/smsfix/ "https://epicwindmill.com/tools/smsfix/")
 
-<div></div><div>**This tool should be very useful for people who:**</div><div>- switch OS versions often (i.e. Testing leaks)
+**This tool should be very useful for people who:**
+- switch OS versions often (i.e. Testing leaks)
 - need to switch between BB10 devices (upgrading/replacements)
 - are migrating to or from Android devices
 - want to archive conversations
 - want to view/print messages on their computer
 - need a more reliable alternative to BB Link which seems to have issues when restoring from different OS versions
 
-</div>### Required permissions
+### Required permissions
 
 [![2013-11-08 09.01.38](https://epicwindmill.com/wp-content/uploads/2013/04/2013-11-08-09.01.38-180x300.png)](https://epicwindmill.com/wp-content/uploads/2013/04/2013-11-08-09.01.38.png)
 
 This app requires the following permissions to work correctly:
 
-- <span style="line-height: 13px;">**Email and PIN Messages**  
-    This permission is required to list, read and access your accounts</span>
+- **Email and PIN Messages**  
+    This permission is required to list, read and access your accounts
 - **Shared Files** This permission is required to read and store the backup files
 - **Text Messages**  
     This permission is required to access your text message account
@@ -59,7 +60,7 @@ This app requires the following permissions to work correctly:
 
 ![2013-11-06 23.12.28](https://epicwindmill.com/wp-content/uploads/2013/11/2013-11-06-23.12.28-180x300.png) ![2013-11-06 23.12.32](https://epicwindmill.com/wp-content/uploads/2013/11/2013-11-06-23.12.32-180x300.png) ![2013-11-06 23.12.40](https://epicwindmill.com/wp-content/uploads/2013/11/2013-11-06-23.12.40-180x300.png)
 
-### <span style="font-size: 1.17em;">Guides</span>
+### Guides
 
 #### Reading conversations on the computer
 
@@ -71,7 +72,7 @@ This app requires the following permissions to work correctly:
 [![browserexample](https://epicwindmill.com/wp-content/uploads/2013/04/browserexample-150x150.jpg)](https://epicwindmill.com/wp-content/uploads/2013/04/browserexample.jpg)
 
 Or watch this video:  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/FWOQqUZu74s?feature=oembed" title="SMS Backup for BB10 - Tutorial: How to check your backup" width="500"></iframe>
+![](https://www.youtube.com/watch?v=FWOQqUZu74s)
 
 #### Exporting text messages
 
@@ -99,7 +100,7 @@ Or watch this video:
 
 #### Importing from Android
 
-- <span style="line-height: 13px;">Install [SMS Backup and Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore) onto your Android device</span>
+- Install [SMS Backup and Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore) onto your Android device
 - Open up the application and choose Backup  
     [![android-import1](https://epicwindmill.com/wp-content/uploads/2013/04/android-import1-180x300.jpg)](https://epicwindmill.com/wp-content/uploads/2013/04/android-import1.jpg)
 - Specify a filename  
@@ -108,5 +109,5 @@ Or watch this video:
     [![android-import3](https://epicwindmill.com/wp-content/uploads/2013/04/android-import3-180x300.jpg)](https://epicwindmill.com/wp-content/uploads/2013/04/android-import3.jpg)
 - All messages have been exported  
     [![android-import4](https://epicwindmill.com/wp-content/uploads/2013/04/android-import4-180x300.jpg)](https://epicwindmill.com/wp-content/uploads/2013/04/android-import4.jpg)
-- Copy the backup XML file from your Android device e.g. X:\\SMSBackupRestore to your BlackBerry 10 device
+- Copy the backup XML file from your Android device e.g. `X:\\SMSBackupRestore` to your BlackBerry 10 device
 - Follow the instructions from **Importing text messages**

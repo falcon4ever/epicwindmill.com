@@ -17,13 +17,13 @@ Earth Friends is a free Facebook application that visualizes your social network
 ### Videos
 
 Facebook friends visualized on Google Earth (08-12-2010)  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/LpAFybFQVVE?feature=oembed" title="Facebook friends visualized on Google Earth" width="500"></iframe>
+![](https://www.youtube.com/watch?v=LpAFybFQVVE)
 
 Tutorial 1: How to use Earth Friends  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/oz61wN5vqt0?feature=oembed" title="Tutorial 1: How to use Earth Friends" width="500"></iframe>
+![](https://www.youtube.com/watch?v=oz61wN5vqt0)
 
 Tutorial 2: How to download the KMZ file for Google Earth  
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/Q5gvVePJOqg?feature=oembed" title="Tutorial 2: How to download the KMZ file for Google Earth" width="500"></iframe>
+![](https://www.youtube.com/watch?v=Q5gvVePJOqg)
 
 ### Implementation details
 
