@@ -19,18 +19,28 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Epic Windmill"
-baseurl: "/epicwindmill.com"
+name: "Epic Windmill"
 twitter_username: epicwindmill
-#github_username:  falcon4ever
 
 url: "https://epicwindmill.com"
-name: "Epic Windmill"
 description: "Creative software development"
+baseurl: "/epicwindmill.com"
+
+google_analytics: UA-387767-17
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+show_excerpts: true
+excerpt_separator: <!--more-->
+
+paginate: 5
+paginate_path: "/page/:num/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
