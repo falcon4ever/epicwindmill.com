@@ -22,7 +22,9 @@ Epic Windmill is proud to present another audio application for the Android plat
 
 Read the full press release here: [http://musicmarcom.com/Quiztones\_for\_Android.html](http://musicmarcom.com/Quiztones_for_Android.html)
 
-<center>[![](https://epicwindmill.com/wp-content/uploads/2012/09/Category-171x300.png "Category")](https://epicwindmill.com/wp-content/uploads/2012/09/Category.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory-171x300.png "Subcategory")](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen-171x300.png "QuizScreen")](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen.png)</center>### Where to get it?
+[![](https://epicwindmill.com/wp-content/uploads/2012/09/Category-171x300.png "Category")](https://epicwindmill.com/wp-content/uploads/2012/09/Category.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory-171x300.png "Subcategory")](https://epicwindmill.com/wp-content/uploads/2012/09/Subcategory.png) [![](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen-171x300.png "QuizScreen")](https://epicwindmill.com/wp-content/uploads/2012/09/QuizScreen.png)
+
+### Where to get it?
 
 **Product website**:  
 <http://quiztones.net/>

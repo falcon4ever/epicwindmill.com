@@ -26,7 +26,7 @@ Epic Windmill is proud to present **SMS Backup**, a complete text message backup
 
 [![IMG_00000040](https://epicwindmill.com/wp-content/uploads/2013/04/IMG_00000040-180x300.png)](https://epicwindmill.com/wp-content/uploads/2013/04/IMG_00000040.png) [![IMG_00000043](https://epicwindmill.com/wp-content/uploads/2013/04/IMG_00000043-180x300.png)](https://epicwindmill.com/wp-content/uploads/2013/04/IMG_00000043.png) ![IMG_00000041](https://epicwindmill.com/wp-content/uploads/2013/04/IMG_00000041-180x300.png)
 
-### <span style="font-size: 1.17em;">Where to get it?</span>
+### Where to get it?
 
 **BlackBerry World:**  
 [SMS Backup for BB10](http://appworld.blackberry.com/webstore/content/27686935/)

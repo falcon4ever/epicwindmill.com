@@ -14,13 +14,13 @@ We’ve just pushed out a new version of NodeBeat to Google Play!
 
 Changes:
 
-- <span style="line-height: 13px;">Rebuild using the latest NDK/GCC</span>
+- Rebuild using the latest NDK/GCC
 - Updated language files
 - Fixed keyboard orientation
 - Fixed issues with the storage path of some devices
 
 New
 
-- <span style="line-height: 13px;">[Soundcloud](https://soundcloud.com/) sharing</span>
+- [Soundcloud](https://soundcloud.com/) sharing
 - Replaced zip compression with ogg encoding
 - Updated the UI to show a progressbar when NodeBeat is preparing the audio file.

@@ -16,7 +16,7 @@ We’ve released a new version of [SMS Backup](https://epicwindmill.com/sms-back
 
 > **Added:**
 > 
-> - <span style="line-height: 13px;">Feedback on missing permissions</span>
+> - Feedback on missing permissions
 > - Keep the screen awake (during import and export to prevent the app from pausing)
 > - Clean up phone numbers on import by removes dashes and spaces (e.g. “xxx yyy zzzz” and “xxx-yyy-zzzz” willl become xxxyyyzzzz). This should result in less broken conversations.
 > 

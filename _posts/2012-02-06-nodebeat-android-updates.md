@@ -16,7 +16,7 @@ The current version of NodeBeat now allows users to customize a lot of the audio
 
 Below is a short video I shot last month that roughly shows what you can expect from this release.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/AaHI80wTWww?feature=oembed" title="NodeBeat for Android update preview" width="500"></iframe>
+![](https://www.youtube.com/watch?v=AaHI80wTWww)
 
 ### Screenshots
 

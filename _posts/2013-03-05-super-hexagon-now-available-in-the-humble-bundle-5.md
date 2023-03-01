@@ -14,7 +14,8 @@ categories:
 
 > We’re back with number five of our Android (also for Windows, Mac, and Linux) game bundles: Humble Bundle with Android 5! And we’ve got a load of fantastic games and soundtracks to keep you entertained!
 > 
-> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/NQfkrNHbs1Q?feature=oembed" title="Humble Bundle with Android 5" width="500"></iframe>  
+> ![](https://www.youtube.com/watch?v=NQfkrNHbs1Q)
+>
 > Name your price for six awesome games available on Android, Windows, Mac, and Linux: **Beat Hazard Ultra**, **Dynamite Jack**, **Solar 2**, and **NightSky HD**. And if you pay more than the average, you’ll also get **Super Hexagon** and **Dungeon Defenders**!
 > 
 > Like previous bundles, if you pay more than $1, you’ll also get keys to optionally redeem on Steam.
