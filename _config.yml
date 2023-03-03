@@ -42,6 +42,31 @@ paginate: 5
 paginate_path: "/page/:num/"
 
 github: falcon4ever
+facebook: epicwindmill
+
+
+menu:
+  - title: SMS Backup
+    url:   /sms-backup.html
+  - title: fIRC
+    url:   /firc.html
+  - title: fIRC manual
+    url:   /firc/firc-manual.html
+  - title: Earth Friends
+    url:   /earth-friends.html
+  - title: Ploegenrooster
+    url:   /ploegenrooster.html
+  - title: Super Hexagon
+    url:   /super-hexagon.html
+  - title: Quiztones
+    url:   /quiztones.html
+  - title: NodeBeat
+    url:   /nodebeat.html
+  - title: About
+    url:   /about.html
+  - title: Privacy Policy
+    url:   /privacy-policy.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
