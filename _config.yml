@@ -29,7 +29,7 @@ baseurl: "/epicwindmill.com"
 google_analytics: UA-387767-17
 
 # Build settings
-theme: minima
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -41,6 +41,7 @@ excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/page/:num/"
 
+github: falcon4ever
 
 # Exclude from processing.
 # The following items will not be processed, by default.
