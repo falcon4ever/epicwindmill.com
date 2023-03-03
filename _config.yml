@@ -42,8 +42,7 @@ paginate: 5
 paginate_path: "/page/:num/"
 
 github: falcon4ever
-facebook: epicwindmill
-
+email: "https://www.facebook.com/epicwindmill"
 
 menu:
   - title: SMS Backup
