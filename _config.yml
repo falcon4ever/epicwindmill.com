@@ -28,7 +28,7 @@ twitter_username: epicwindmill
 
 url: "https://epicwindmill.com"
 baseurl: ""
-#baseurl: "/epicwindmill.com"
+permalink: pretty
 
 google_analytics: UA-387767-17
 
@@ -47,25 +47,25 @@ paginate_path: "/page/:num/"
 
 menu:
   - title: SMS Backup
-    url:   /sms-backup.html
+    url:   /sms-backup/
   - title: fIRC
-    url:   /firc.html
+    url:   /firc/
   - title: fIRC manual
-    url:   /firc/firc-manual.html
+    url:   /firc/firc-manual/
   - title: Earth Friends
-    url:   /earth-friends.html
+    url:   /earth-friends/
   - title: Ploegenrooster
-    url:   /ploegenrooster.html
+    url:   /ploegenrooster/
   - title: Super Hexagon
-    url:   /super-hexagon.html
+    url:   /super-hexagon/
   - title: Quiztones
-    url:   /quiztones.html
+    url:   /quiztones/
   - title: NodeBeat
-    url:   /nodebeat.html
+    url:   /nodebeat/
   - title: About
-    url:   /about.html
+    url:   /about/
   - title: Privacy Policy
-    url:   /privacy-policy.html
+    url:   /privacy-policy/
 
 
 # Exclude from processing.
