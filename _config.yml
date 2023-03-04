@@ -27,7 +27,8 @@ email: "https://www.facebook.com/epicwindmill"
 twitter_username: epicwindmill
 
 url: "https://epicwindmill.com"
-baseurl: "/epicwindmill.com"
+baseurl: ""
+#baseurl: "/epicwindmill.com"
 
 google_analytics: UA-387767-17
 
